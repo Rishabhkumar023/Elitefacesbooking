@@ -50,13 +50,13 @@ const App: React.FC = () => {
           <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-yellow-500/10 via-transparent to-transparent"></div>
           {/* Subtle logo watermark background */}
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 opacity-[0.03] scale-150 pointer-events-none">
-            <img src="logo.png" alt="" className="w-[800px] grayscale brightness-200" />
+            <img src="LOGO.PNG" alt="" className="w-[800px] grayscale brightness-200" />
           </div>
         </div>
         
         <div className="container mx-auto px-6 relative z-10 text-center">
           <div className="flex justify-center mb-8 animate-in fade-in zoom-in duration-1000">
-             <img src="LOGO.png" alt="EliteFaces" className="h-24 w-24 rounded-full border-2 border-yellow-500/30 shadow-2xl shadow-yellow-500/10" />
+             <img src="LOGO.PNG" alt="EliteFaces" className="h-24 w-24 rounded-full border-2 border-yellow-500/30 shadow-2xl shadow-yellow-500/10" />
           </div>
           <span className="text-yellow-500 font-bold tracking-[0.5em] uppercase text-sm mb-6 block animate-in fade-in slide-in-from-top-4 duration-1000">India's Leading Talent Agency</span>
           <h1 className="text-6xl md:text-8xl font-black mb-8 leading-tight">
