@@ -31,7 +31,7 @@ const App: React.FC = () => {
               className="h-12 w-12 rounded-full object-cover border border-white/10"
             />
             <div className="flex flex-col -space-y-1">
-              <span className="text-xl font-black tracking-tighter gold-gradient italic serif leading-tight">EliteFaces</span>
+              <span className="text-xl font-black tracking-tighter gold-gradient italic serif leading-tight">EliteFaces Booking</span>
               <span className="text-[10px] uppercase tracking-[0.3em] text-slate-400 hidden sm:block">Luxury Booking</span>
             </div>
           </a>
