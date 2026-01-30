@@ -26,7 +26,7 @@ const App: React.FC = () => {
         <div className="container mx-auto flex justify-between items-center">
           <a href="#" className="flex items-center space-x-3 group logo-glow transition-all">
             <img 
-              src="logo.png" 
+              src="LOGO.PNG" 
               alt="EliteFaces Logo" 
               className="h-12 w-12 rounded-full object-cover border border-white/10"
             />
@@ -50,7 +50,7 @@ const App: React.FC = () => {
           <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-yellow-500/10 via-transparent to-transparent"></div>
           {/* Subtle logo watermark background */}
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 opacity-[0.03] scale-150 pointer-events-none">
-            <img src="LOGO.PNG" alt="" className="w-[800px] grayscale brightness-200" />
+            <img src="LOGO.png" alt="" className="w-[800px] grayscale brightness-200" />
           </div>
         </div>
         
