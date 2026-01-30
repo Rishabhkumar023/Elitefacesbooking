@@ -56,7 +56,7 @@ const App: React.FC = () => {
         
         <div className="container mx-auto px-6 relative z-10 text-center">
           <div className="flex justify-center mb-8 animate-in fade-in zoom-in duration-1000">
-             <img src="logo.png" alt="EliteFaces" className="h-24 w-24 rounded-full border-2 border-yellow-500/30 shadow-2xl shadow-yellow-500/10" />
+             <img src="LOGO.png" alt="EliteFaces" className="h-24 w-24 rounded-full border-2 border-yellow-500/30 shadow-2xl shadow-yellow-500/10" />
           </div>
           <span className="text-yellow-500 font-bold tracking-[0.5em] uppercase text-sm mb-6 block animate-in fade-in slide-in-from-top-4 duration-1000">India's Leading Talent Agency</span>
           <h1 className="text-6xl md:text-8xl font-black mb-8 leading-tight">
